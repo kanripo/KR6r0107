@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:20:09.053318
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 17:52
 #+TITLE: 定應大師布袋和尚傳
 #+PROPERTY: CBETA_ID X86n1597
 #+PROPERTY: ID KR6r0107
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 86, No. 1597
 #+PROPERTY: VOL 86
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0107_X_002-0048a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
-No.1597-2¶
-
- 布袋和尚傳¶
+No. 1597-2¶
+布袋和尚傳¶
 
 明州奉化布袋和尚。不知何許人。自稱契此。未詳氏¶
 族。形裁腲(烏罪切)脮(奴罪切)。蹙額皤腹。出語無定。寢臥隨¶
@@ -35,7 +34,7 @@ No.1597-2¶
 圓淨。凡是異相妄空呼。人能弘道道分明。無量清高¶
 稱道情。携錫若登故國路。莫愁請處不聞聲。又有偈¶
 曰。是非憎愛世偏多。子細思量奈我何。寬却肚腸須¶
-忍辱。豁開心地任從他。若逢知己須依分。縱遇冤家¶
+忍辱。豁開心地任從他。若逢知已須依分。縱遇冤家¶
 也共和。若能了此心頭事。自然證得六波羅。我有一¶
 布袋。虗空無𦊱礙。展開徧十方。入時觀自在。吾有三¶
 寶堂。裏空無色相。不高亦不低。無遮亦無障。學者體¶
